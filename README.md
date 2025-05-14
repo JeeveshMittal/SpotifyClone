@@ -4,7 +4,7 @@ A simple clone of the Spotify homepage built using only **HTML** and **CSS**.
 ## 🚀 Features
 - Responsive layout for desktop and mobile
 - Flexbox and Grid for structured design
-- Custom styling with animations and transitions
+- Custom styling
 
 ## 💡 Technologies Used
 - HTML5
